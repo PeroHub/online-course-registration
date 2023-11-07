@@ -237,7 +237,7 @@ if (isset($_POST["submit_form"])) {
 
     <section id="sectionToPrint" style="width: 50%; margin: 50px auto;">
         <section>
-            <h2>Umaru Musa Salio Polytechnic</h2>
+            <h2>Heritage Polytechnic, Eket</h2>
             <h3 style="margin-top: 10px;">OFFICE OF THE REGISTRAR</h3>
             <p style="margin-top: 10px;">COURSE REGISTRATION FORM</p>
         </section>
